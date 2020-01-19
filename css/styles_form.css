@@ -1,0 +1,68 @@
+body{
+  background-image: url(../css/reg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 750px ;
+}
+
+h1{
+  text-align:center;
+}
+
+.avatar{
+  border-radius: 50%
+  width:100px;
+  height: 80px;
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 50px);
+}
+
+.done{
+  width: 380px;
+  height: 300px;
+  position: absolute;
+  bottom: 70px;
+  right: 90px;
+}
+
+.rform{
+  text-align: center;
+  margin: 50px 550px;
+}
+
+.registration{
+  width: 100%;
+  background-color: #051019;
+  opacity: 0.8;
+  padding: 50px 0px;
+}
+
+.branch{
+  color: white;
+  font-size: 18px;
+  width: 100px;
+}
+
+#button{
+  width: 250px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#ph{
+  width: 230px;
+
+}
+
+#but{
+  color: white;
+  font-size: 18px;
+}
+
+#butt{
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: aliceblue;
+}
